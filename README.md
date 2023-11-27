@@ -25,7 +25,7 @@
 
 ###
 
-<img align="left" height="150" src="https://cdn.discordapp.com/attachments/1124998158829760583/1178485343020929086/20231127_005901.gif?ex=65765100&is=6563dc00&hm=b204c98b18d4fdc0106c261588cb6015338cade16fa62a9d744180bc1309207e&"  />
+<img align="left" height="150" src="https://cdn.discordapp.com/attachments/1124998158829760583/1178485343020929086/20231127_005901.gif"  />
 
 ###
 
@@ -92,6 +92,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LassaInora/LassaInora/main/.github/workflows/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
