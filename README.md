@@ -3,7 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/sjknn53k4po9cbdr4eph2viow">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sjknn53k4po9cbdr4eph2viow&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
@@ -58,6 +60,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LassaInora/LassaInora/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/LassaInora/LassaInora/tree/main/.github/workflows/snake.svg" alt="Snake animation" />
 
 ###
