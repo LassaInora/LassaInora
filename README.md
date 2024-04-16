@@ -10,11 +10,6 @@
     Et j'aime jouer avec les langages.
   </p>
 </div>
-<p style="float:left">
-  <a href="https://open.spotify.com/user/sjknn53k4po9cbdr4eph2viow">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sjknn53k4po9cbdr4eph2viow&count=5" alt="Spotify recently played"  />
-  </a>
-</p>
 
 ###
 
