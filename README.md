@@ -32,15 +32,10 @@
 
 # Mes passions:
 ## - Écouter de la musiques:
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1r5onrinqUbAF5MvD5Y4yq" width="100%" height="150" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[![PlaylistBlocage.png](.github/assets/PlaylistBlocage.png)](https://open.spotify.com/playlist/1r5onrinqUbAF5MvD5Y4yq)
 
 ## - Faire du bruit:
-
-<figure>
-  <figcaption>Wake up Time</figcaption>
-  <audio controls src=".github/assets/music/New Wake up Time.flac"></audio>
-</figure>
+[![PlaylistBlocage.png](.github/assets/WakeUpTime.png)](https://github.com/LassaInora/LassaInora/blob/5e17e70dcdc392581a9ee9abc0e307740cfc9e7a/.github/assets/music/New%20Wake%20up%20Time.flac)
 
 ## - Courir partout avec un appareil photo:
 
