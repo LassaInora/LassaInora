@@ -58,7 +58,7 @@
 [![PlaylistBlocage.png](.github/assets/plaques/Playlist-Blocage.png)](https://open.spotify.com/playlist/1r5onrinqUbAF5MvD5Y4yq)
 
 ## Faire du bruit
-[![PlaylistBlocage.png](.github/assets/plaques/Composition-Wake_up_Time.png)](https://github.com/LassaInora/LassaInora/raw/refs/heads/main/.github/assets/music/New%20Wake%20up%20Time.flac)
+[![PlaylistBlocage.png](.github/assets/plaques/Composition-Wake_up_Time.png)](https://github.com/LassaInora/LassaInora/raw/refs/heads/main/.github/assets/music/Wake%20up%20Time.flac)
 
 ## Courir partout avec un appareil photo
 
