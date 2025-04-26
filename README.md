@@ -11,16 +11,11 @@
 
 ---
 
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LassaInora&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=fr&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LassaInora&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ---
 
-<div align="center">
 .⊹·★˚·˚✦☆⋆˚✫✹·.·✵·⋆★·✦✹·⊹⋆☆⋆˚·⊹⋆·⋆⊹.
 
  \- 🦊 -  &  - 🍂 -  
@@ -28,31 +23,53 @@
  \- 🐍 -  &  - 👾 -  
 
 ⋆✦·⊹⋆.˚⋆·✹·⊹★˚★.⊹✫⋆☆✵·.·⋆·☆⋆·˚✦·⊹·˚✹
-</div>
+
+
+# Mon système
+
+### Mes OS
+
+![Mes OS](https://skillicons.dev/icons?i=linux,ubuntu,raspberrypi,windows)
+
+### Mes langages
+
+![Mes langages](https://skillicons.dev/icons?i=py,java,md,c,cs,cpp,html,css,php)
+
+### Mes bases de données
+
+![Mes bases de données](https://skillicons.dev/icons?i=postgres,mysql,sqlite)
+
+### Mes IDE
+
+![Mes IDE](https://skillicons.dev/icons?i=pycharm,idea,clion,phpstorm,webstorm,atom,emacs) 
+
+### Autour de mes projets
+**Vous avez dit `git` ?** •  
+![Autour de mes projets](https://skillicons.dev/icons?i=git,github,atom,md)  
+**Vous avez dit `bot discord` ?** •  
+![Autour de mes projets](https://skillicons.dev/icons?i=discord,bots,py,pycharm,git,github,atom,md,emacs,linux,windows,raspberrypi)  
+**Vous avez dit `librairie python` ?** •  
+![Autour de mes projets](https://skillicons.dev/icons?i=py,pycharm,git,github,md,linux,windows)  
+**Vous avez dit `travail en équipe` ?** •  
+![Autour de mes projets](https://skillicons.dev/icons?i=discord,notion,gmail,git,github,atom,md,emacs)
 
 # Mes passions:
-## - Écouter de la musiques:
+## Écouter de la musiques
 [![PlaylistBlocage.png](.github/assets/plaques/Playlist-Blocage.png)](https://open.spotify.com/playlist/1r5onrinqUbAF5MvD5Y4yq)
 
-## - Faire du bruit:
+## Faire du bruit
 [![PlaylistBlocage.png](.github/assets/plaques/Composition-Wake_up_Time.png)](https://github.com/LassaInora/LassaInora/raw/refs/heads/main/.github/assets/music/New%20Wake%20up%20Time.flac)
 
-## - Courir partout avec un appareil photo:
+## Courir partout avec un appareil photo
 
-<div align="center">
-    <img src=".github/assets/images/image1.jpg" alt="image 1" height="100"/>
-    <img src=".github/assets/images/image2.jpg" alt="image 2" height="100"/>
-    <img src=".github/assets/images/image3.jpg" alt="image 3" height="100"/>
-</div>
+<img src=".github/assets/images/image1.jpg" alt="image 1" height="100"/>
+<img src=".github/assets/images/image2.jpg" alt="image 2" height="100"/>
+<img src=".github/assets/images/image3.jpg" alt="image 3" height="100"/>
 
----
-
-### Licence
-Unless otherwise stated, my projects are under the [GNU General Public License v3](https://raw.githubusercontent.com/LassaInora/LassaInora/refs/heads/main/.github/LICENSE).
-
-<div align="center">
 
 ---
+
+### Mes réseaux
 
 [![Bluesky - lassainora.fr](.github/assets/buttons/bluesky_button.png)](https://bsky.app/profile/lassainora.fr)
 [![GitHub - LassaInora](.github/assets/buttons/github_button.png)](https://github.com/LassaInora)
@@ -63,6 +80,11 @@ Unless otherwise stated, my projects are under the [GNU General Public License v
 [![LassaInora - Website](.github/assets/buttons/lassainora_button.png)](https://lassainora.fr)
 
 ___
+
+### Licences
+Unless otherwise stated, my projects are under the [GNU General Public License v3](https://raw.githubusercontent.com/LassaInora/LassaInora/refs/heads/main/.github/LICENSE).
+
+---
 
 Do you want to support me?
 
