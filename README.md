@@ -1,3 +1,4 @@
+<base target="_blank">
 <div align="center">
 
 [![Logo LassaInora](https://raw.githubusercontent.com/LassaInora/LassaInora/refs/heads/main/.github/assets/Logo.png)](https://lassainora.fr/)
