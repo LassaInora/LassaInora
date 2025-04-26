@@ -32,16 +32,18 @@
 
 # Mes passions:
 ## - Écouter de la musiques:
-[![PlaylistBlocage.png](.github/assets/PlaylistBlocage.png)](https://open.spotify.com/playlist/1r5onrinqUbAF5MvD5Y4yq)
+[![PlaylistBlocage.png](.github/assets/plaques/Playlist-Blocage.png)](https://open.spotify.com/playlist/1r5onrinqUbAF5MvD5Y4yq)
 
 ## - Faire du bruit:
-[![PlaylistBlocage.png](.github/assets/WakeUpTime.png)](https://github.com/LassaInora/LassaInora/blob/5e17e70dcdc392581a9ee9abc0e307740cfc9e7a/.github/assets/music/New%20Wake%20up%20Time.flac)
+[![PlaylistBlocage.png](.github/assets/plaques/Composition-Wake_up_Time.png)](https://github.com/LassaInora/LassaInora/blob/5e17e70dcdc392581a9ee9abc0e307740cfc9e7a/.github/assets/music/New%20Wake%20up%20Time.flac)
 
 ## - Courir partout avec un appareil photo:
 
-<img src=".github/assets/images/image1.jpg" alt="image 1" height="150"/>
-<img src=".github/assets/images/image2.jpg" alt="image 1" height="150"/>
-<img src=".github/assets/images/image3.jpg" alt="image 1" height="150"/>
+<div align="center">
+    <img src=".github/assets/images/image1.jpg" alt="image 1" height="100"/>
+    <img src=".github/assets/images/image2.jpg" alt="image 2" height="100"/>
+    <img src=".github/assets/images/image3.jpg" alt="image 3" height="100"/>
+</div>
 
 ---
 
