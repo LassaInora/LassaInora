@@ -71,13 +71,13 @@
 
 ### Mes réseaux
 
-[![Bluesky - lassainora.fr](https://raw.githubusercontent.com/LassaInora/LassaInora/refs/heads/main/.github/assets/buttons/bluesky_button.png)](https://bsky.app/profile/lassainora.fr)
-[![GitHub - LassaInora](https://raw.githubusercontent.com/LassaInora/LassaInora/refs/heads/main/.github/assets/buttons/github_button.png)](https://github.com/LassaInora)
-[![Instagram - picsel._](https://raw.githubusercontent.com/LassaInora/LassaInora/refs/heads/main/.github/assets/buttons/instagram_button.png)](https://www.instagram.com/picsel._/)
-[![Twitch - picsel__](https://raw.githubusercontent.com/LassaInora/LassaInora/refs/heads/main/.github/assets/buttons/twitch_button.png)](https://www.twitch.tv/picsel__)
-[![Youtube - @picsel_](https://raw.githubusercontent.com/LassaInora/LassaInora/refs/heads/main/.github/assets/buttons/youtube_button.png)](https://www.youtube.com/@picsel_)
-[![Twitter - _Picsel](https://raw.githubusercontent.com/LassaInora/LassaInora/refs/heads/main/.github/assets/buttons/twitter_button.png)](https://x.com/_Picsel)
-[![LassaInora - Website](https://raw.githubusercontent.com/LassaInora/LassaInora/refs/heads/main/.github/assets/buttons/lassainora_button.png)](https://lassainora.fr)
+[![Bluesky - lassainora.fr](.github/assets/buttons/bluesky_button.png)](https://bsky.app/profile/lassainora.fr)
+[![GitHub - LassaInora](.github/assets/buttons/github_button.png)](https://github.com/LassaInora)
+[![Instagram - picsel._](.github/assets/buttons/instagram_button.png)](https://www.instagram.com/picsel._/)
+[![Twitch - picsel__](.github/assets/buttons/twitch_button.png)](https://www.twitch.tv/picsel__)
+[![Youtube - @picsel_](.github/assets/buttons/youtube_button.png)](https://www.youtube.com/@picsel_)
+[![Twitter - _Picsel](.github/assets/buttons/twitter_button.png)](https://x.com/_Picsel)
+[![LassaInora - Website](.github/assets/buttons/lassainora_button.png)](https://lassainora.fr)
 
 ___
 
