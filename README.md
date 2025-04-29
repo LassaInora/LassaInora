@@ -41,17 +41,7 @@
 
 ### Mes IDE
 
-![Mes IDE](https://skillicons.dev/icons?i=pycharm,idea,clion,phpstorm,webstorm,atom,emacs) 
-
-### Autour de mes projets
-• **Vous avez dit `git` ?** •  
-![Autour de mes projets](https://skillicons.dev/icons?i=git,github,atom,md)  
-• **Vous avez dit `bot discord` ?** •  
-![Autour de mes projets](https://skillicons.dev/icons?i=discord,bots,py,pycharm,git,github,atom,md,emacs,linux,windows,raspberrypi)  
-• **Vous avez dit `librairie python` ?** •  
-![Autour de mes projets](https://skillicons.dev/icons?i=py,pycharm,git,github,md,linux,windows)  
-• **Vous avez dit `travail en équipe` ?** •  
-![Autour de mes projets](https://skillicons.dev/icons?i=discord,notion,gmail,git,github,atom,md,emacs)
+![Mes IDE](https://skillicons.dev/icons?i=pycharm,idea,clion,phpstorm,webstorm,atom,emacs)
 
 # Mes passions:
 ## Écouter de la musiques
